@@ -3,7 +3,6 @@ package com.bridgelabz;
 import java.util.Scanner;
 
 public class PrimeNumbers {
-
     public static void main(String[] args) {
         PrimeNumbers prime = new PrimeNumbers();
         prime.primeMethod();
