@@ -2,6 +2,7 @@ package com.bridgelabz;
 
 public class InsertionSort {
 
+
     public static void main(String[] args) {
         System.out.println("Welcome to InsertionOrder program");
         String[] array = {"King", "Camel", "Xerox", "Maruti", "Fox"};
@@ -11,6 +12,7 @@ public class InsertionSort {
             System.out.println(s);
         }
     }
+
     public static String[] insertionMethod(String[] array) {
         for (int i = 0; i < array.length; i++) {
             for (int j = i + 1; j < array.length; j++) {
