@@ -13,6 +13,7 @@ public class BinarySearch {
             System.out.println("Element found in the data at Index : " + result);
     }
 
+
     public int searchingMethod(String[] array, String word) {
         int left = 0, right = array.length - 1;
         while (left <= right) {
