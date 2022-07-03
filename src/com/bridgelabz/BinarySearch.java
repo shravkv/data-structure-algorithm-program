@@ -1,7 +1,6 @@
 package com.bridgelabz;
 
 public class BinarySearch {
-
     public static void main(String[] args) {
         System.out.println("Welcome to BinarySearch Program");
         BinarySearch search = new BinarySearch();
